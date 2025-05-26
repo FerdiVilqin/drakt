@@ -1,1 +1,1 @@
-{ "name": "darkgpt-ui-final", "scripts": { "dev": "next dev" } }
+{"name":"darkgpt-ui-final","scripts":{"dev":"next dev"},"dependencies":{"next":"^15.3.2","react":"^19.1.0","react-dom":"^19.1.0"},"devDependencies":{"@types/react":"19.1.5","typescript":"5.8.3"}}

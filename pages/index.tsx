@@ -1,1 +1,11 @@
-export default function Home() { return <div>DarkGPT UI Final</div>; }
+import UploadButton from '../components/UploadButton'
+
+export default function Home() {
+  return (
+    <main>
+      <h1>DarkGPT UI Final</h1>
+      <UploadButton />
+    </main>
+  )
+}
+

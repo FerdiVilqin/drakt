@@ -1,1 +1,4 @@
-export function UploadButton() { return <button>+</button>; }
+export default function UploadButton() {
+  return <button>+</button>;
+}
+
